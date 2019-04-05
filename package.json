@@ -1,0 +1,21 @@
+
+{
+  "name": "react-native-fashion",
+  "version": "0.0.1",
+  "description": "React Native Elements & UI Toolkit",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "reactjs",
+    "reactnative",
+    "bootstrap"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wei Changhua",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  }
+}
